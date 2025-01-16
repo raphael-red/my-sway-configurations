@@ -233,3 +233,4 @@ exec --no-startup-id fcitx5
 exec --no-startup-id waybar
 exec --no-startup-id nm-applet
 exec --no-startup-id blueman-applet
+exec /usr/libexec/lxqt-policykit-agent
